@@ -1,0 +1,1 @@
+" - ".join(sorted({str(i) for i in numbers}, key=lambda x: int(x)))
